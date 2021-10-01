@@ -1,4 +1,3 @@
-
 import PySimpleGUI as sg
 import os
 import shutil
@@ -45,5 +44,3 @@ while True:
     if event == "Quit" or event == sg.WIN_CLOSED:
         break
 window.close()
-
-

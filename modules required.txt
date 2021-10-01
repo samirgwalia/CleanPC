@@ -1,0 +1,4 @@
+These modules are required to run this app
+1. PySimpleGUI
+2. os
+3. shutil
